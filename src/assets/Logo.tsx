@@ -43,6 +43,9 @@ export const Logo = ({ variant = 'default', size = 28 }: Props) => {
           />
         </g>
       </svg>
+
+
+
     );
   } else {
     return (
